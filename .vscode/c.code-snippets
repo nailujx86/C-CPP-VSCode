@@ -1,0 +1,12 @@
+{
+  "Include common headers": {
+		"prefix": "include",
+		"body": [
+			"#include <stdio.h>",
+			"#include <stlib.h>",
+			"#include <string.h>",
+			"#include <math.h>"
+		],
+		"description": "Include common headers"
+	}
+}
